@@ -1,0 +1,33 @@
+@media (min-width: 320px) {
+    .user-card{
+        width: 45%;
+        height: 100vh;
+    }
+    .user-card img{
+        width:100px;
+        height: 100px;
+    }
+    .user-card h3{
+        font-weight: 900;
+    }
+    .user-card p{
+        font-size: 14px;
+        color: blue;
+    }
+}
+
+@media (min-width: 576px) {
+    
+}
+
+@media (min-width: 767px) {
+    
+}
+
+@media (min-width: 991px) {
+    
+}
+
+@media (min-width: 1200px) {
+    
+}

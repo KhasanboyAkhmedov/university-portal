@@ -1,0 +1,37 @@
+{   
+    "code": 0,
+    "message": "string",
+    "success": true,
+    "errors": [
+        {
+            "field": "string",
+            "error": "string"
+      }
+    ],
+    "data": {
+        "id": 0,
+        "firstName": "Toshmat",
+        "lastName": "Toshmatov",
+        "middleName": "Toshmatovich",
+        "corporateEmail": "toshmatuni@gmail.com",
+        "role": {
+            "id": 0,
+            "name": "Teacher of Math",
+            "createdAt": "2023-11-27T09:25:32.910Z"
+        },
+        "status": 0,
+        "userProfile": {
+            "id": 0,
+            "dateOfBirth": "19-10-1990",
+            "photo": "",
+            "bio": "John Smith is a veteran teacher with over 20 years of classroom experience. He holds a master’s degree in education and is passionate about helping students achieve their full potential. John is known for his dynamic teaching style and ability to connect with students on a personal level. His classes are challenging, but also engaging and fun.",
+            "gender": "male",
+            "contactNumber": "+998 (00) 000 00-00",
+            "address": "12 st Tashkent",
+            "personalEmail": "toshmat@gmail.com"
+        },
+        "updateAt": "2023-11-27T09:25:32.910Z",
+        "createdAt": "2023-11-27T09:25:32.910Z",
+        "enabled": true
+    }
+}
